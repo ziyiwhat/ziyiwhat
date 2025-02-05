@@ -2,6 +2,12 @@
 
 I'm an undergraduate student in Yingcai Honors College of UESTC, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
 
+<p align="center">
+<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbsp;Scholar-Ziyi&nbsp;Wang-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ziyiwhat.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-ziyiwhat.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:ziyiwang@std.uestc.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-ziyiwang@std.uestc.edu.cn-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <h3> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -19,13 +25,4 @@ I'm an undergraduate student in Yingcai Honors College of UESTC, supervised by [
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailorbrue&layout=compact)](https://github.com/ziyiwhat)
-
-<h3> &nbsp;Contact Me </h3>
-
-<p align="center">
-<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbsp;Scholar-Ziyi&nbsp;Wang-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://ziyiwhat.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-ziyiwhat.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.tailorbrue.com/"><img alt="Blogs" src="https://img.shields.io/badge/Website-tailorbrue.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:ziyiwhat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ziyiwhat@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyiwhat&layout=compact)](https://github.com/ziyiwhat)
