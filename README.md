@@ -1,43 +1,65 @@
-<h3> &nbsp;About Me </h3>
-
-I'm an undergraduate student in Yingcai Honors College of UESTC, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
+<h3 align="center"> 🚀 About Me </h3>
 
 <p align="center">
-<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbsp;Scholar-Ziyi&nbsp;Wang-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://ziyiwhat.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-ziyiwhat.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:ziyiwang@std.uestc.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-ziyiwang@std.uestc.edu.cn-blue?style=flat-square&logo=gmail"></a>
+I'm an undergraduate student at Yingcai Honors College of UESTC, supervised by 
+<a href="http://www.liushuaicheng.org" target="_blank">Prof. Shuaicheng Liu</a>.
 </p>
 
-<h3> &nbsp;Tech Stack</h3>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google&nbsp;Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+  </a>
+  <a href="https://ziyiwhat.github.io/">
+    <img alt="Homepage" src="https://img.shields.io/badge/Homepage-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:ziyiwang@std.uestc.edu.cn">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<table>
+---
+
+<h3 align="center"> 🛠 Tech Stack </h3>
+
+<table align="center" border="0">
   <tr>
-    <td valign="top">
-      <ul>
-        <li>💻 &nbsp;
-          <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
-          <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C">
-          <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php">
-          <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5">
-        </li>
-        <li>🛢 &nbsp;
-          <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-          <img src="https://img.shields.io/badge/-GaussDB-333333?style=flat&logo=mongodb">
-        </li>
-        <li>⚙️ &nbsp;
-          <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
-          <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
-          <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
-        </li>
-        <li>🔧 &nbsp;
-          <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
-        </li>
-      </ul>
+    <td align="center">
+      <strong>💻 Languages</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </td>
-    <td valign="top">
-      <a href="https://github.com/ziyiwhat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyiwhat&layout=compact">
-      </a>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🛢 Databases</strong><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/GaussDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>⚙️ Tools</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔧 IDEs</strong><br>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center"> 📊 GitHub Stats </h3>
+
+<p align="center">
+  <a href="https://github.com/ziyiwhat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyiwhat&layout=compact&theme=radical">
+  </a>
+</p>
