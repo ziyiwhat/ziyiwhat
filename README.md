@@ -6,13 +6,13 @@ I'm an undergraduate student at Yingcai Honors College of UESTC, supervised by
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1">
+  <a href="https://scholar.google.com/citations?user=MyIS_8QAAAAJ&hl=zh-CN&oi=sra">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google&nbsp;Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   </a>
   <a href="https://ziyiwhat.github.io/">
     <img alt="Homepage" src="https://img.shields.io/badge/Homepage-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:ziyiwang@std.uestc.edu.cn">
+  <a href="mailto:ziyiwhat@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
