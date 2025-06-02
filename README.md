@@ -27,21 +27,22 @@
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center">
       <strong>🛢 Databases</strong><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/GaussDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/openGauss-0052CC?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center">
-      <strong>⚙️ Tools</strong><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenPGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white">
+      <strong>⚙️ Dev</strong><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenPGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white">
     </td>
   </tr>
 </table>
