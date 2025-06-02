@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/OpenPGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
     </td>
   </tr>
 </table>
