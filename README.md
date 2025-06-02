@@ -1,11 +1,6 @@
 <h3 align="center"> 🚀 About Me </h3>
 
 <p align="center">
-I'm an undergraduate student at Yingcai Honors College of UESTC, supervised by 
-<a href="http://www.liushuaicheng.org" target="_blank">Prof. Shuaicheng Liu</a>.
-</p>
-
-<p align="center">
   <a href="https://scholar.google.com/citations?user=MyIS_8QAAAAJ&hl=zh-CN&oi=sra">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google&nbsp;Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   </a>
